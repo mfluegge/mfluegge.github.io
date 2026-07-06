@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-# Moin
+# Episodes
 
-Moiniiii
-
-## Projects
-
-- None :(
+* Episode 1: 
