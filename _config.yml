@@ -1,5 +1,3 @@
 theme: jekyll-theme-hacker
 title: Regressive Episodes
 description: Working through old Kaggle challenges under artificial constraints that hopefully lead to more fun (and less useful) solutions. No LLM assistants or coding agents allowed.
-github:
-  is_project_page: false
